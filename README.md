@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+##About me:
+My name is Trish Milletich, and I am a PhD candidate at the University of Florida. My doctoral research has focused on studying the relationship between the infant gut microbiome and the future onset of autoimmune and gastrointestinal diseases. My research has largely focused on 16s rRNA analysis and has recently transitioned into long-read metagenomics via Nanopore sequencing. 
+
+I also received two bachelor's degrees in both statistics and bioinformatics from Virginia Commonwealth University. 
+
+I am passionate about scientific communication and am always striving to learn the best method to graph and explain results so that everyone can understand our scientific discoveries! 
+
 <!--
 **PMilletich/PMilletich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
